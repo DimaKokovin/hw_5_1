@@ -7,7 +7,7 @@ while (count <= 20) {
   count += 1;
   number = number + numbers;
   numbers += 1;
-  sum = number;
+  // sum = number;
 }
-
+sum = number;
 // console.log(sum);
